@@ -1,1 +1,3 @@
  - Archived test_logs into logs_archive_20250626_133005.tar.gz
+ - Archived /home/juhee/log-archive-tool/test_logs into logs_archive_20250626_175107.tar.gz
+ - Archived /var/log into logs_archive_20250626_181535.tar.gz

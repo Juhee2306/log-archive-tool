@@ -1,0 +1,3 @@
+*.tar.gz
+archived_logs/
+cron_output.log

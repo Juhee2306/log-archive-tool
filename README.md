@@ -5,17 +5,23 @@ This tool helps automate log maintenance by compressing and storing log director
 
 
 
-##  Features
+## Features
 
-- ✅ Takes a log directory as input
-- ✅ Compresses logs into `.tar.gz` format
-- ✅ Stores archives in a separate folder
-- ✅ Logs each archive action with a timestamp
-- ✅ Cron-job compatible for automation
+-  Takes a log directory as input
+-  Compresses logs into `.tar.gz` format
+-  Stores archives in a separate folder
+-  Logs each archive action with a timestamp
+-  Cron-job compatible for automation
 
 
 
-##  Usage
+## Usage
 
 ```bash
-./log-archive.sh <log-directory>
+sudo bash log-archive.sh <log-directory>
+
+
+## Real System Log Support
+
+This script works with real Linux log directories like `/var/log`, making it useful for DevOps and system maintenance automation. Just pass the full path as an argument with `sudo`.
+

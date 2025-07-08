@@ -1,3 +1,7 @@
  - Archived test_logs into logs_archive_20250626_133005.tar.gz
  - Archived /home/juhee/log-archive-tool/test_logs into logs_archive_20250626_175107.tar.gz
  - Archived /var/log into logs_archive_20250626_181535.tar.gz
+2025-07-07 11:33:17 - Archived /var/log into archived_logs/logs_archive_20250707_113312.tar.gz (Size: 2.9M)
+2025-07-07 11:33:17 - Deleted archives older than 7 days from archived_logs/
+2025-07-07 11:33:48 - Archived /var/log into archived_logs/logs_archive_20250707_113343.tar.gz (Size: 2.9M)
+2025-07-07 11:33:48 - Deleted archives older than 7 days from archived_logs/

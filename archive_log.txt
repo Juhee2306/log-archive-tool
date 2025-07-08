@@ -5,3 +5,7 @@
 2025-07-07 11:33:17 - Deleted archives older than 7 days from archived_logs/
 2025-07-07 11:33:48 - Archived /var/log into archived_logs/logs_archive_20250707_113343.tar.gz (Size: 2.9M)
 2025-07-07 11:33:48 - Deleted archives older than 7 days from archived_logs/
+2025-07-08 15:36:18 - Archived /var/log into archived_logs/logs_archive_20250708_153614.tar.gz (Size: 3.1M)
+2025-07-08 15:36:18 - Deleted archives older than 7 days from archived_logs/
+2025-07-08 15:48:18 - Archived /var/log into archived_logs/logs_archive_20250708_154814.tar.gz (Size: 3.1M)
+2025-07-08 15:48:18 - Deleted archives older than 7 days from archived_logs/

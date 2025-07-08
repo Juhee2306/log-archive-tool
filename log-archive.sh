@@ -29,7 +29,7 @@ ARCHIVE_NAME="logs_archive_${TIMESTAMP}.tar.gz"
 ARCHIVE_PATH="archived_logs/$ARCHIVE_NAME"
 
 tar -czf "$ARCHIVE_PATH" "$LOG_DIR"
-
+echo "Logs archived to : $ARCHIVE_PATH"
 ARCHIVE_SIZE=$(du -h "$ARCHIVE_PATH" | cut -f1)
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Archived $LOG_DIR into $ARCHIVE_PATH (Size: $ARCHIVE_SIZE)" >> archive_log.txt

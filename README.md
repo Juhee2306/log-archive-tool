@@ -25,10 +25,7 @@ It compresses log directories into .tar.gz archives, stores them with timestampe
 sudo bash log-archive.sh <log-directory>
 ```
 
-HEAD
-## Example
 ###Example
-47f340d ( Updated README)
 
 ``` bash
 sudo bash log-archive.sh /var/log
